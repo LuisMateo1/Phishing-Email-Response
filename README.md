@@ -1,4 +1,4 @@
-# Phishing-Email-Response on LetsDefend
+# Phishing Email Response on LetsDefend
 This is the alert received on the SIEM
 ![image](https://github.com/user-attachments/assets/f16796e2-8bd3-4ee9-9c5e-df8f48673e06)
 Immediately we can see that the domain of the email address is spoofed, instead of 'coffeeshop.com' it says 'coffeeshooop'
