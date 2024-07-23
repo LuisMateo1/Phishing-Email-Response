@@ -3,7 +3,7 @@ This is the alert received on the SIEM
 ![image](https://github.com/user-attachments/assets/f16796e2-8bd3-4ee9-9c5e-df8f48673e06)
 Immediately we can see that the domain of the email address is spoofed, instead of 'coffeeshop.com' it says 'coffeeshooop'
 
-After looking up the IP address on Cisco Talos and AbuseIPDB, the IP address links back to South Korea
+After looking up the IP address on Cisco Talos and AbuseIPDB, the IP address links back to South Korea, but not found to be malicous
 ![image](https://github.com/user-attachments/assets/60f1599a-67a4-4812-bbe7-164af5542aeb)
 ![image](https://github.com/user-attachments/assets/b0884ae3-7c6c-4b0b-8d28-8dbbc259d213)
 
